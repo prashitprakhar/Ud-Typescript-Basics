@@ -1,0 +1,17 @@
+{
+  "name": "udtypescriptbasics",
+  "version": "1.0.0",
+  "description": "udemy course basics",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Prashit Prakhar",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
